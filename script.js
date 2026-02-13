@@ -6,7 +6,7 @@ const gifStages = [
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",       // 4 sadder
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",             // 5 devastated
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",               // 6 very devastated
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif  // 7 crying runaway
+    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",  // 7 crying runaway
 ]
 
 const noMessages = [
