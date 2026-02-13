@@ -11,10 +11,10 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Em buồn gì hả 🤔",
-    "Em dám bấm No á? 🥺",
+    "Em dám bấm No á?  🤔",
+    "lòng đau như cắ 🥺",
     "Sặc",
-    "lòng đau như cắt😢",
+    "Câu trả lời chỉ có 1😢",
     "huheo huheo 💔",
     "😭😭😭😭😭",
     "Last chance😭",
