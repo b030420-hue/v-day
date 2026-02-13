@@ -1,6 +1,6 @@
 const gifStages = [
     "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",    // 0 normal
-    "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",  // 1 confused
+    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",  // 1 confused
     "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",             // 2 pleading
     "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",             // 3 sad
     "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",       // 4 sadder
@@ -11,11 +11,11 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Câu trả lời chỉ có 1🤔",
+    "huheo huheo 💔",
     "Em dám bấm No á? 🥺",
     "Sặc",
     "lòng đau như cắt😢",
-    "huheo huheo 💔",
+    "ai cho mà bấm🤔",
     "😭😭😭😭😭",
     "Last chance😭",
     "Câu trả lời chỉ có 1"
