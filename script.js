@@ -23,7 +23,7 @@ const noMessages = [
 
 const yesTeasePokes = [
     "khum tò mò chữ No mới lạ 😏",
-    "👀",
+    "👀👀👀👀",
     "nhây dữ zị 😈",
     "liu liu😏"
 ]
