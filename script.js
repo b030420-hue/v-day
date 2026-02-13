@@ -1,5 +1,5 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
+    "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",    // 0 normal
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
     "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
     "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
@@ -11,21 +11,21 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Em buồn gì hả 🤔",
+    "Em dám bấm No á? 🥺",
+    "Sặc",
+    "lòng đau như cắt😢",
+    "huheo huheo 💔",
+    "😭😭😭😭😭",
+    "Last chance😭",
+    "Câu trả lời chỉ có 1"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "khum tò mò chữ No mới lạ 😏",
+    "👀",
+    "nhây dữ zị 😈",
+    "liu liu😏"
 ]
 
 let yesTeasedCount = 0
