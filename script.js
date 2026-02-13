@@ -15,7 +15,7 @@ const noMessages = [
     "Sặc",
     "Huhu heoehoe 🥺",
     "lòng đau như cắt😢",
-    "ai cho mà bấm🤔",
+    "Khom cho bấm nữa🤔",
     "😭😭😭😭😭",
     "Last chance😭",
     "Câu trả lời chỉ có 1"
