@@ -12,8 +12,8 @@ const gifStages = [
 const noMessages = [
     "No",
     "Em bấm No thật á??? 💔",
-    "Huhu heoehoe 🥺",
     "Sặc",
+    "Huhu heoehoe 🥺",
     "lòng đau như cắt😢",
     "ai cho mà bấm🤔",
     "😭😭😭😭😭",
