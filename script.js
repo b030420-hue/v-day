@@ -1,20 +1,20 @@
 const gifStages = [
     "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",    // 0 normal
-    "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",  // 1 confused
-    "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",             // 2 pleading
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",             // 3 sad
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",       // 4 sadder
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",             // 5 devastated
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",               // 6 very devastated
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",  // 7 crying runaway
+    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
+    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
+    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
+    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
+    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
+    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
+    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
     "No",
-    "Em dám bấm No á?  🤔",
-    "lòng đau như cắ 🥺",
+    "Em buồn gì hả 🤔",
+    "Em dám bấm No á? 🥺",
     "Sặc",
-    "Câu trả lời chỉ có 1😢",
+    "lòng đau như cắt😢",
     "huheo huheo 💔",
     "😭😭😭😭😭",
     "Last chance😭",
@@ -23,7 +23,7 @@ const noMessages = [
 
 const yesTeasePokes = [
     "khum tò mò chữ No mới lạ 😏",
-    "👀👀👀👀",
+    "👀",
     "nhây dữ zị 😈",
     "liu liu😏"
 ]
