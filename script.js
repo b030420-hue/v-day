@@ -1,9 +1,9 @@
 const gifStages = [
     "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",    // 0 normal
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpidTAxeHZ4OHVicnRoNnpyMm9pN28yOXYxb3lydG0yNmExN3FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s7tpEMLzriGWuRIi0e/giphy.gif",  // 1 confused
-    "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",             // 2 pleading
-    "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",             // 3 sad
-    "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",       // 4 sadder
+    "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajIybzZuODRiM2lvNWJlMGFmcTY5c3dmMmJ6enhlcWQ4NmsxbWFoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dH1PXTWnzmi2ocUPsq/giphy.gif",             // 2 pleading
+    "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNmdGJqZTh4b3JjaWk3cDVlcDZwdTJrNmpmem9oancxNTk0a3JwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuM49YKw7hQdZICrn9/giphy.gif",             // 3 sad
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzM5aGd5Y250cnJrM3Vjc2N1c2Nxc3FtbTNxbGJidmVyYzJpOG0zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vPDNX9Z2aBDFQxn6YL/giphy.gif",       // 4 sadder
     "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",             // 5 devastated
     "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094",               // 6 very devastated
     "https://tenor.com/view/colmillosdulces-sweetfangs-emote-fangz-gif-15177211666697899094"  // 7 crying runaway
