@@ -13,8 +13,8 @@ body {
     align-items: center;
     overflow: hidden;
     background-image:
-        radial-gradient(circle at 15% 85%, #c5b3ff 0%, transparent 40%),
-        radial-gradient(circle at 85% 15%, #8fabff 0%, transparent 40%),
+        radial-gradient(circle at 15% 85%, #b3dcff 0%, transparent 40%),
+        radial-gradient(circle at 85% 15%, #8fc9ff 0%, transparent 40%),
         radial-gradient(circle at 50% 50%, #f0f4ff 0%, transparent 60%);
 }
 
